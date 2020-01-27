@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 struct Item {
+	char* nom;
 	int prix;
 	int quat;	
 };
